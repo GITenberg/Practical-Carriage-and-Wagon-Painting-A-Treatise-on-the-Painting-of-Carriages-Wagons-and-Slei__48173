@@ -1,10 +1,16 @@
 _repo: Practical-Carriage-and-Wagon-Painting-A-Treatise-on-the-Painting-of-Carriages-Wagons-and-Slei__48173
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48173-h/images/cover.jpg
 creator:
   author:
     agent_name: Hillick, Mayton Clarence
     gutenberg_agent_id: '44659'
     url: http://www.gutenberg.org/2009/agents/44659
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48173#Practical-Carriage-and-Wagon-Painting-A-Treatise-on-the-Painting-of-Carriages-Wagons-and-Slei_
 gutenberg_issued: '2015-02-05'
 gutenberg_type: Text
 identifiers:
